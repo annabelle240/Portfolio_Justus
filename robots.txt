@@ -1,0 +1,4 @@
+# robots.txt zu file:///C:/Users/annam/OneDrive/Dokumente/UNI/2.Semester/Medieninformatik/Portfolio_endversion/portfolio.html
+
+User-agent: *
+Disallow: /
