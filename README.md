@@ -1,5 +1,8 @@
 # Portfolio
 
+Quick preview:
+
+
 *Media Querie 1/7:*
 
 <img width="353" alt="Screenshot 2023-09-04 202835" src="https://github.com/annabelle240/Portfolio_Justus/assets/120031172/6d955902-49df-47d4-874b-d17256d01498">
